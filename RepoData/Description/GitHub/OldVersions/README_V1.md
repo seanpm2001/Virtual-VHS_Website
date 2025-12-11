@@ -1,0 +1,1 @@
+📼🌐️ The official source repository for the website of the Virtual VHS project, a project that aims to make a restoration of legacy technology through virtual means. In other words, these VHS tape files will function just like a normal VHS tape, but will be able to work on all modern devices.
